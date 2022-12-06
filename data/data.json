@@ -1,0 +1,16 @@
+// {
+//     "results": [
+//         {
+//             "id":1,
+//             "firstName": "Peter",
+//             "surname": "Parker",
+//             "email": "perter@gmail.com"
+//         },
+//         {
+//             "id":2,
+//             "firstName": "Gwen",
+//             "surname": "Stacey",
+//             "email": "Gweneth@gmail.com"   
+//         }
+//     ]
+// }
